@@ -1,0 +1,8 @@
+C:\Gitter\TestApp4Git\TestApp4Git\bin\Debug\TestApp4Git.exe.config
+C:\Gitter\TestApp4Git\TestApp4Git\bin\Debug\TestApp4Git.exe
+C:\Gitter\TestApp4Git\TestApp4Git\bin\Debug\TestApp4Git.pdb
+C:\Gitter\TestApp4Git\TestApp4Git\obj\Debug\TestApp4Git.csprojResolveAssemblyReference.cache
+C:\Gitter\TestApp4Git\TestApp4Git\obj\Debug\TestApp4Git.Properties.Resources.resources
+C:\Gitter\TestApp4Git\TestApp4Git\obj\Debug\TestApp4Git.csproj.GenerateResource.Cache
+C:\Gitter\TestApp4Git\TestApp4Git\obj\Debug\TestApp4Git.exe
+C:\Gitter\TestApp4Git\TestApp4Git\obj\Debug\TestApp4Git.pdb

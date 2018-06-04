@@ -14,9 +14,11 @@ namespace TestApp4Git
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.EnableVisualStyles();
+            //Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new TestMain());
+            TestMain obj = new TestMain();
+            obj.Func();
         }
     }
 }
