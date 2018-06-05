@@ -17,7 +17,7 @@ namespace TestApp4Git
             {
                 using (StreamWriter outputFile = new StreamWriter("C:\\test\\WriteLines.txt"))
                 {
-                    outputFile.WriteLine("Here is the first stringA.");
+                    outputFile.WriteLine("Here is the first stringC.");
                 };
 
             }
