@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -18,6 +18,7 @@ namespace TestApp4Git
                 using (StreamWriter outputFile = new StreamWriter("C:\\test\\WriteLines.txt"))
                 {
                     outputFile.WriteLine("Here is the first stringO.");
+                    outputFile.WriteLine("Here is the first stringRavi.");
                 };
 
             }
