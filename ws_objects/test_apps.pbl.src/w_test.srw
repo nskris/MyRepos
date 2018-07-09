@@ -38,6 +38,7 @@ destroy(this.cb_1)
 end on
 
 event close;//parentwindow.close
+//Bala
 close(this)
 end event
 
