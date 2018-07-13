@@ -1,6 +1,0 @@
-Save Format v3.0(19990112)
-@begin Targets
- 0 "test_apps.pbt";
-@end;
-DefaultTarget "test_apps.pbt";
-DefaultRemoteTarget "test_apps.pbt";
