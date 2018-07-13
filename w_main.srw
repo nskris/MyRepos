@@ -39,7 +39,7 @@ end on
 
 type st_2 from statictext within w_main
 integer x = 1573
-integer y = 844
+integer y = 724
 integer width = 402
 integer height = 64
 integer textsize = -10
@@ -50,7 +50,6 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Test Pass"
 boolean focusrectangle = false
 end type
 
