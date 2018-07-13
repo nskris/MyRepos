@@ -65,7 +65,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Powerbuilder 2021"
+string text = "Powerbuilder 2020"
 boolean focusrectangle = false
 end type
 
