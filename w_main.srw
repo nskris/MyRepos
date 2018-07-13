@@ -15,7 +15,7 @@ boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
-long backcolor = 65280
+long backcolor = 255
 string icon = "AppIcon!"
 boolean center = true
 st_1 st_1
@@ -34,8 +34,8 @@ end on
 type st_1 from statictext within w_main
 integer x = 937
 integer y = 488
-integer width = 1431
-integer height = 64
+integer width = 1367
+integer height = 104
 integer textsize = -10
 integer weight = 700
 fontcharset fontcharset = ansi!
