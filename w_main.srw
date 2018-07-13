@@ -34,17 +34,17 @@ end on
 type st_1 from statictext within w_main
 integer x = 937
 integer y = 488
-integer width = 402
+integer width = 1431
 integer height = 64
 integer textsize = -10
-integer weight = 400
+integer weight = 700
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Success"
+string text = "Powerbuilder 2017 - GIT Integration Success"
 boolean focusrectangle = false
 end type
 
