@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Powerbuilder 2017 - GIT Integration"
+string text = "Powerbuilder "
 boolean focusrectangle = false
 end type
 
