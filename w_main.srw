@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Bala"
+string text = "Success"
 boolean focusrectangle = false
 end type
 
