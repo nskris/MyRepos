@@ -49,7 +49,7 @@ fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
-long backcolor = 134217856
+long backcolor = 16776960
 boolean focusrectangle = false
 end type
 
