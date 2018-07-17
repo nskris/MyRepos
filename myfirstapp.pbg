@@ -4,4 +4,5 @@ Save Format v3.0(19990112)
 @end;
 @begin Objects
  "myfirstapp.sra" "myfirstapp.pbl";
+ "build.srj" "myfirstapp.pbl";
 @end;
