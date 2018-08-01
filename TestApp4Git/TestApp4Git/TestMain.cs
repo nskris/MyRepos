@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestApp2Git;
 
 namespace TestApp4Git
 {
@@ -15,6 +16,7 @@ namespace TestApp4Git
         {
             try
             {
+                Class1 obj = new Class1();
                 using (StreamWriter outputFile = new StreamWriter("C:\\test\\WriteLines.txt"))
                 {
                     outputFile.WriteLine("Here is the first stringU.");
