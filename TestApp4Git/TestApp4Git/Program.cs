@@ -17,6 +17,7 @@ namespace TestApp4Git
             //Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new TestMain());
+			//Hello
             TestMain obj = new TestMain();
             obj.Func();
         }
